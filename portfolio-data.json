@@ -1,0 +1,147 @@
+{
+  "settings": {
+    "name": "Ravi Kiran Kuchillapati",
+    "title": "Computer Science Student",
+    "location": "India",
+    "summary": "Dedicated Computer Science student with experience in Android development and a passion for creating innovative solutions.",
+    "profileImage": "https://t4.ftcdn.net/jpg/04/31/64/75/360_F_431647519_usrbQ8Z983hTYe8zgA7t1XVc5fEtqcpa.jpg"
+  },
+  "sections": {
+    "hero": {
+      "enabled": true,
+      "ctaButtons": [
+        {
+          "text": "Get In Touch",
+          "url": "mailto:ravikirank.vjit@gmail.com"
+        },
+        {
+          "text": "View Resume",
+          "url": "#"
+        }
+      ]
+    },
+    "about": {
+      "enabled": true,
+      "skills": {
+        "enabled": true,
+        "title": "Technical Skills",
+        "items": [
+          "Java",
+          "SQL",
+          "Python",
+          "C",
+          "C++",
+          "MS Office"
+        ]
+      }
+    },
+    "experience": {
+      "enabled": true,
+      "title": "Work Experience",
+      "items": [
+        {
+          "company": "SP Technologies",
+          "position": "Android Developer",
+          "period": "11/2018 - 05/2019",
+          "description": "Proficiently troubleshoot simple and complex technical issues for different assigned projects, achieving a 90% success rate. Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency. Designed and implemented Advanced Weather Application to detect weather in current location using OpenWeather API."
+        }
+      ]
+    },
+    "projects": {
+      "enabled": true,
+      "title": "Featured Projects",
+      "items": [
+        {
+          "title": "Advice Mate - GPT Powered Chatbots",
+          "description": "Created a 15+ chatbots using OpenAI API. The bots trained for their respective fields. So users can able to ask any questions in their field and our chatbots replies form the billions of parameters",
+          "tags": [
+            "Chatbots",
+            "OpenAI",
+            "API"
+          ],
+          "previewUrl": "https://advicemate.io",
+          "repoUrl": null
+        }
+      ]
+    },
+    "education": {
+      "enabled": true,
+      "title": "Education",
+      "items": [
+        {
+          "institution": "Vidya Jyothi Institute of Technology",
+          "degree": "B.tech in Computer Science",
+          "period": "2021 - Present"
+        },
+        {
+          "institution": "RRS College of Engineering & Technology",
+          "degree": "Diploma In Computer Engineering",
+          "period": "2016 - 2019"
+        },
+        {
+          "institution": "Shishu Vihar High School",
+          "degree": "SSC",
+          "period": "2015 - 2016"
+        }
+      ]
+    },
+    "achievements": {
+      "enabled": true,
+      "title": "Achievements & Certifications",
+      "items": [
+        {
+          "title": "Verzeo Machine Learning Course",
+          "description": "Got good knowledge about Machine Learning using Python. Learnt various algorithms, models & techniques to build a automated machine."
+        },
+        {
+          "title": "Certified Android Developer",
+          "description": "Completed 6 Months Industrial training on Android development role."
+        }
+      ]
+    },
+    "contact": {
+      "enabled": true,
+      "title": "Contact",
+      "email": "ravikirank.vjit@gmail.com",
+      "phone": "9014537609",
+      "location": "India"
+    },
+    "social": {
+      "enabled": false,
+      "items": []
+    }
+  },
+  "navigation": {
+    "enabled": true,
+    "items": [
+      {
+        "name": "Home",
+        "url": "/"
+      },
+      {
+        "name": "About",
+        "url": "#about"
+      },
+      {
+        "name": "Projects",
+        "url": "#projects"
+      },
+      {
+        "name": "Experience",
+        "url": "#experience"
+      },
+      {
+        "name": "Education",
+        "url": "#education"
+      },
+      {
+        "name": "Contact",
+        "url": "#contact"
+      }
+    ]
+  },
+  "footer": {
+    "enabled": true,
+    "copyright": "© 2025 Ravi Kiran Kuchillapati. All rights reserved."
+  }
+}
